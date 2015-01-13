@@ -10,7 +10,7 @@
 %               Output: Code/Encode
 % ************************************************************************
 
-function code = scramble(varargin)
+function [ code ] = scramble(varargin)
 
 %VARARGIN: VARiable ARGuments IN 
 %NARGIN: Number ARGuments IN
